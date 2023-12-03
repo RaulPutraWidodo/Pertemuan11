@@ -1,4 +1,6 @@
 # Pertemuan11
-![gambar](Screenshot(37).png)
+Latihan Lambda
+![gambar](lambda.png)
 
-![gambar](Screenshot(38).png)
+Praktikkum Fungsi
+![gambar](fungsi.png)
