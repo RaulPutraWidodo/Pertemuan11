@@ -1,6 +1,6 @@
 # Pertemuan11
 
-![gambar](Tangkapan layar (37).png)
+![gambar] (Screenshot (37).png)
 
 Berikut adalah penjelasan langkah demi langkah:
 
