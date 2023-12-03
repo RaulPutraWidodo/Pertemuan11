@@ -2,6 +2,7 @@
 
 # Flowchart
 ![gambar](image.png)
+
 Penjelasan Langkah-langkah
 
 1. *Inisialisasi Dictionary:*
@@ -48,6 +49,7 @@ Penjelasan Langkah-langkah
    - Pastikan program dapat mengatasi kasus-kasus ekstrem atau input yang tidak valid.
 
 Setelah membuat program dengan langkah-langkah ini, Anda dapat menjalankannya dan menggunakannya untuk mengelola daftar nilai mahasiswa sesuai kebutuhan.
+
 Latihan Lambda
 ![gambar](lambda.png)
 
