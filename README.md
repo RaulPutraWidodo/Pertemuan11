@@ -1,5 +1,7 @@
 # Pertemuan11
 
+![gambar](Tangkapan layar (37).png)
+
 Berikut adalah penjelasan langkah demi langkah:
 
 Mendefinisikan Fungsi Lambda:
